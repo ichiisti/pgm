@@ -1,4 +1,4 @@
-# **Planned Gross Margin Calculation**
+# **Estimated Gross Margin Calculation**
 
 *Objectives:*
 
